@@ -12,16 +12,15 @@
 ## TugasLatihan 4
 ![gambar output](gambar/la
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.png)
+![gambar output](Hasillatihan4.png)
 
 ## TugasPraktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![gambar output](soalpraktikum4.PNG)
 
 ## Hasil Source Code
 ```python
 #Membuat variable perulangan dengan eaa.....
 #Jangan maling uyyy
-#Rizky Coder
 data = []
 while True : 
 	nama	= input	("Nama 		:")
@@ -93,7 +92,7 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![gambar output](hasilpraktikum4.png)
 
 
 
