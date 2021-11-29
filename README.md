@@ -10,7 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](
+![gambar output](latihan.png)
 ## Hasil Output 
 ![gambar output](outputlatihan.png)
 
